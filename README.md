@@ -63,7 +63,7 @@ The Uniswap smart contracts live on Ethereum. Anyone can interact with them dire
 
 The Uniswap frontend is an open source interface designed to improve user experience when interacting with the smart contracts. Anyone can use the source code to host an interface, or build their own. Hosted interfaces are independent of Uniswap, and should comply with their jurisdictional laws and regulations.
 
-### List of interfaces \(updated November 2, 2018\)
+## List of interfaces \(updated November 2, 2018\)
 
 * [Uniswap.exchange](https://uniswap.exchange)
 
